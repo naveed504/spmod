@@ -2896,7 +2896,4 @@ $('body').on('click','.btn-m-r',function(){
     }
     
 
-
-
-
 });
