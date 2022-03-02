@@ -28,7 +28,7 @@ $(document).ready(function() {
     //////////////////////////////////////////////////////////////////////////////////////////////
 
 
-
+//
     
     function loadQuotationPopup(update_id = '', dat_typ = '', quo_id = '', copy_sq_id = '') {
         // debugger
